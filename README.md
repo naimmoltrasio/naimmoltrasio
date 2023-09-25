@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Naim<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-![](https://komarev.com/ghpvc/?username=meisun0107&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
+![](https://komarev.com/ghpvc/?username=naimmoltrasio0107&color=brightgreen&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 <br>
 <h1>About me 🙋</h1>
 
