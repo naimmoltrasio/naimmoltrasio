@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=naimmoltrasio0107&color=brightgreen&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 <br>
-<h1>About me 🙋</h1>
+<h1>About me 🙋‍♂️</h1>
 
 - 💻 I'm a computer engineering undergraduate, specializing in computing
 - 💚 I'm currently studying at the Universitat Autònoma de Barcelona
