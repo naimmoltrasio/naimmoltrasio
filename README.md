@@ -6,7 +6,7 @@
 
 - 💻 I'm a computer engineering undergraduate, specializing in computing
 - 💚 I'm currently studying at the Universitat Autònoma de Barcelona
-- 📚 I'm currently learning OpenGL
+- 📚 I'm currently learning OpenGL 3.3+
 - 🤙 More about me: 
 [![Linkedin](https://img.shields.io/badge/-Naim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naimmoltrasio/)
 [![Instagram](https://img.shields.io/badge/-Naim-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/naimmoltrasio/)
