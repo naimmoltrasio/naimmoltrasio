@@ -8,8 +8,8 @@
 - 💚 I'm currently studying at the Universitat Autònoma de Barcelona
 - 📚 I'm currently learning OpenGL
 - 🤙 More about me: 
-[![Linkedin](https://img.shields.io/badge/-Moltra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naimmoltrasio/)
-[![Instagram](https://img.shields.io/badge/-Moltra-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/naimmoltrasio/)
+[![Linkedin](https://img.shields.io/badge/-Naim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naimmoltrasio/)
+[![Instagram](https://img.shields.io/badge/-Naim-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/naimmoltrasio/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:naim.moltrasio@gmail.com)
 
 <br>
