@@ -17,7 +17,7 @@
 <h1>GitHub Stats 📊</h1>
  
 ![Naim's github stats](https://github-readme-stats.vercel.app/api?username=naimmoltrasio&show_icons=true&theme=dark) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimmmoltrasio&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimmmoltrasio&theme=highcontrast)](https://git.io/streak-stats)  
 
 <hr>
   
