@@ -10,8 +10,6 @@ I build products and solve problems through clean and maintainable code
 
 👯 I’m looking to collaborate on open-source projects
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake.svg" />
