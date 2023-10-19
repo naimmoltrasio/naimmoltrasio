@@ -1,25 +1,27 @@
-<h1 align="center">Hi there, I am Naim<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=naimmoltrasio0107&color=brightgreen&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
-<br>
-<h1>About me 🙋‍♂️</h1>
+# Hi! I am [Naim Moltrasio]
 
-- 💻 I'm a computer engineering undergraduate, specializing in computing
-- 💚 I'm currently studying at the Universitat Autònoma de Barcelona
-- 📚 I'm currently learning OpenGL 3.3+
-- 🤙 More about me: 
-[![Linkedin](https://img.shields.io/badge/-Naim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naimmoltrasio/)
-[![Instagram](https://img.shields.io/badge/-Naim-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/naimmoltrasio/)
-[![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:naim.moltrasio@gmail.com)
+## Junior Developer
 
-<br>
-  
-<h1>GitHub Stats 📊</h1>
+I build products and solve problems through clean and maintainable code
  
-![Naim's github stats](https://github-readme-stats.vercel.app/api?username=naimmoltrasio&show_icons=true&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimmoltrasio)
+🌱 I’m currently learning about OpenGL
 
-<hr>
+👯 I’m looking to collaborate on open-source projects
+
+<br>
+
+### My tech stack
+
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimmoltrasio&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
   
 [naimmoltrasio](https://github.com/naimmoltrasio)
 
