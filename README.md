@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I am [Naim Moltrasio]
+# Hi! I am Naim Moltrasio
 
 ## Junior Developer
 
