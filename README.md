@@ -18,6 +18,11 @@ I build products and solve problems through clean and maintainable code
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimmoltrasio&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
