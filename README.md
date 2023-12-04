@@ -34,7 +34,7 @@ I build products and solve problems through clean and maintainable code
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimmoltrasio&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?naimmoltrasio=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
