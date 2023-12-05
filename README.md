@@ -12,7 +12,7 @@ I build products and solve problems through clean and maintainable code
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/naimmoltrasio/naimmoltrasioo/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
