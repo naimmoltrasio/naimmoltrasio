@@ -6,7 +6,7 @@
 
 I build products and solve problems through clean and maintainable code
  
-🌱 I’m currently learning about OpenGL
+🌱 I’m currently learning about OpenGL and Godot 4
 
 👯 I’m looking to collaborate on open-source projects
 
