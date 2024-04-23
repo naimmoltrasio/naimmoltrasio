@@ -6,9 +6,7 @@
 
 I build products and solve problems through clean and maintainable code
  
-🌱 I’m currently learning about OpenGL and Godot 4
-
-👯 I’m looking to collaborate on open-source projects
+🌱 I’m currently learning about ML models
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naimmoltrasio/naimmoltrasio/blob/output/github-contribution-grid-snake-dark.svg" />
