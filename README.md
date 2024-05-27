@@ -7,7 +7,10 @@
   - [Clothes-Classification-using-KNN-and-KMeans ](https://github.com/naimmoltrasio/Clothes-Classification-using-Machine-Learning)
 
 - <b>Web Development</b>
-  - [Videogames Website](https://github.com/naimmoltrasio/Videogames-Website) 
+  - [Videogames Website](https://github.com/naimmoltrasio/Videogames-Website)
+    
+- <b>Other</b>
+  - [Crossword Solver using Backtracking](https://github.com/naimmoltrasio/Crossword-Solver-with-Backtracking-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
