@@ -10,10 +10,3 @@
 - <b>Other</b>
   - [Crossword Solver using Backtracking](https://github.com/naimmoltrasio/Crossword-Solver-with-Backtracking-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="NaimMoltrasio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/naimmoltrasio/)
-
-
