@@ -6,7 +6,7 @@
   - [Image-Classification-using-Neural-Networks ](https://github.com/naimmoltrasio/Image-Classification-using-Neural-Networks)
   - [Clothes-Classification-using-KNN-and-KMeans ](https://github.com/naimmoltrasio/Clothes-Classification-using-Machine-Learning)
 - <b>Data Analysis</b>
-  - [S&P500 Index Analysis](https://github.com/naimmoltrasio/SP500-Stock-Market-Analysis)
+  - [Tweets Sentiment Analysis](https://github.com/naimmoltrasio/Tweets-Sentiment-Analysis-with-R)
 - <b>Other</b>
   - [Crossword Solver using Backtracking](https://github.com/naimmoltrasio/Crossword-Solver-with-Backtracking-Algorithm)
 
