@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Problem Solving</b>
-  - [My-LeetCode-Problem-Solving-Journey](https://github.com/naimmoltrasio/Image-Classification-using-Neural-Networks](https://github.com/naimmoltrasio/My-LeetCode-Problem-Solving-Journey))
+  - [My-LeetCode-Problem-Solving-Journey](https://github.com/naimmoltrasio/My-LeetCode-Problem-Solving-Journey)
 - <b>Machine Learning</b>
   - [Image-Classification-using-Neural-Networks ](https://github.com/naimmoltrasio/Image-Classification-using-Neural-Networks)
   - [Clothes-Classification-using-KNN-and-KMeans ](https://github.com/naimmoltrasio/Clothes-Classification-using-Machine-Learning)
