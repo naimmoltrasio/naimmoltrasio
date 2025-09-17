@@ -1,6 +1,6 @@
 <h1>Hi, I'm Naim! </h1>
 
-![Kaggle Stats](https://kaggle-card.vercel.app/api?username=TU_USUARIO)
+![Kaggle Stats](https://kaggle-card.vercel.app/api?username=naimmoltrasio)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/naimmoltrasio?theme=dark&font=Karma&ext=heatmap)
 
 <h2>👨‍💻 My Projects:</h2>
