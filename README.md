@@ -15,5 +15,5 @@
 
 - <b>Problem Solving</b>
   - [My LeetCode Problem Solving Journey](https://github.com/naimmoltrasio/My-LeetCode-Problem-Solving-Journey)
-   ![LeetCode Stats](https://leetcard.jacoblin.cool/naimmoltrasio?theme=dark&font=Karma&ext=heatmap)
+  - ![LeetCode Stats](https://leetcard.jacoblin.cool/naimmoltrasio?theme=dark&font=Karma&ext=heatmap)
 
