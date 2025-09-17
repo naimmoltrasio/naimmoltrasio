@@ -1,7 +1,11 @@
 <h1>Hi, I'm Naim! </h1>
 
-<h2>👨‍💻 My Projects:</h2>
+![Kaggle Stats](https://kaggle-card.vercel.app/api?username=TU_USUARIO)
+![LeetCode Stats](https://leetcard.jacoblin.cool/naimmoltrasio?theme=dark&font=Karma&ext=heatmap)
 
+<h2>👨‍💻 My Projects:</h2>
+- <b>Problem Solving</b>
+  - [My LeetCode Problem Solving Journey](https://github.com/naimmoltrasio/My-LeetCode-Problem-Solving-Journey)
 - <b>Machine Learning</b>
   - [MARL Applied to Survival in Dynamic Environments](https://github.com/naimmoltrasio/MARL-Applied-to-Survival-in-Dynamic-Environments)
   - [Image Classification using Neural Networks](https://github.com/naimmoltrasio/Image-Classification-using-Neural-Networks)
@@ -13,7 +17,6 @@
 - <b>PowerBi</b>
   - [Data Professional Survey Breakdown](https://github.com/naimmoltrasio/Data-Professional-Survey-Breakdown/tree/main)
 
-- <b>Problem Solving</b>
-  - [My LeetCode Problem Solving Journey](https://github.com/naimmoltrasio/My-LeetCode-Problem-Solving-Journey)
-  - ![LeetCode Stats](https://leetcard.jacoblin.cool/naimmoltrasio?theme=dark&font=Karma&ext=heatmap)
+
+
 
