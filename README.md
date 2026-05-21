@@ -5,7 +5,7 @@
 ## 👨‍💻 My Projects
 
 ### 🧩 Problem Solving
-- [My LeetCode Problem Solving Journey](https://github.com/naimmoltrasio/My-LeetCode-Problem-Solving-Journey)
+- [My LeetCode Problem Solving Journey](https://github.com/naimmoltrasio/LeetCode-Problem-Solving-Journey)
 
 ### 🤖 Machine Learning
 - [MARL Applied to Survival in Dynamic Environments](https://github.com/naimmoltrasio/MARL-Applied-to-Survival-in-Dynamic-Environments)
